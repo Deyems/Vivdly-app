@@ -16,3 +16,8 @@ Link to PostMan documentation is:
 
 # Ensure you check the Semantic Versioning of the packages before making an update
 
+Other packages used
+# JOI
+[documentation-for-joi](https://hapi.dev/module/joi/#usage)
+# EXPRESS
+[documentation-for-express-5.x](http://expressjs.com/en/5x/api.html)
