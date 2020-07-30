@@ -19,5 +19,10 @@ Link to PostMan documentation is:
 Other packages used
 # JOI
 [documentation-for-joi](https://hapi.dev/module/joi/#usage)
+# ADDITIONAL DETAILS TO USE JOI
+- You must create the middleware to use on express like this
+# app.use(express.json())
+- This would help you to send out error response after validating the Object
+
 # EXPRESS
 [documentation-for-express-5.x](http://expressjs.com/en/5x/api.html)
